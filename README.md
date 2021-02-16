@@ -1,4 +1,4 @@
-Fresh is a free blog template for Jekyll
+Personal blog made with Jekyll
 =============================
 
 ![](assets/img/fresh.jpg)
