@@ -1,4 +1,4 @@
-Personal blog made with Jekyll
+Jekyll Personal blog 
 =============================
 
 ![](assets/img/fresh.jpg)
